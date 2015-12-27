@@ -4,14 +4,14 @@
  - Implementing LuaJIT
  - Defining **Cuberite**
 
-## Testing
+### Testing
 
  - Testing methods
  - Release strategy
 
-## Implementing LuaJIT
+### Implementing LuaJIT
 
-## Defining Cuberite
+### Defining Cuberite
 
  - Setting a Slogan / *Elevator pitch*
  - Defining a corporate design
