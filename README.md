@@ -4,7 +4,7 @@
  - Implementing LuaJIT
  - Defining **Cuberite**
 
- ---
+---
 
 ### Testing
 
