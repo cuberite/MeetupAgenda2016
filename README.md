@@ -1,4 +1,11 @@
 # Agenda
+---
+
+## Friday
+
+###
+
+## Saturday
 
  - Testing
  - Implementing LuaJIT
@@ -17,3 +24,5 @@
 
  - Setting a Slogan / *Elevator pitch*
  - Defining a corporate design
+
+## Sunday
