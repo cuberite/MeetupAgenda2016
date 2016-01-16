@@ -1,9 +1,24 @@
 # Agenda
----
 
 ## Friday
 
-###
+ - Lua in a nutshell
+ - Cuberite plugins 101
+ - plugin Hackathon
+
+---
+
+### Lua in a nutshell
+
+### Cuberite plugins 101
+
+ - How to write a basic Cuberite plugin
+
+### plugin Hackathon
+
+ - share ideas about possible plugins
+ - come together in groups to build a plugin
+ - extend the API
 
 ## Saturday
 
@@ -19,6 +34,8 @@
  - Release strategy
 
 ### Implementing LuaJIT
+
+ - open discussion
 
 ### Defining Cuberite
 
