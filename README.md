@@ -19,10 +19,9 @@
 
 
 
-### Lua in a nutshell
+### Lua in a nutshell + Cuberite plugins 101
 
-### Cuberite plugins 101
-
+ - Lua basics
  - How to write a basic Cuberite plugin
 
 ### plugin Hackathon
@@ -37,7 +36,16 @@
  - Implementing LuaJIT
  - Defining **Cuberite**
 
----
+#### Timetable
+ | Time | Topic |
+ |---------------|--------------------------------------------|
+ | 14:00 - 15:00 | Testing (Moderated discussion) |
+ | 15:00 - 15:30 | Break |
+ | 15:30 - 16:30 | Cuberite internals: Terrain generation |
+ | 16:30 - 17:00 | Break |
+ | 17:00 - 18:00 | Implementing LuaJIT (Moderated discussion) |
+ | 18:00 - 18:30 | Break |
+ | 18:30 - 19:30 | Defining Cuberite |
 
 ### Testing
 
