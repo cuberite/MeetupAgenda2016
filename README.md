@@ -2,11 +2,24 @@
 
 ## Friday
 
+ - Small introduction talks + opening
  - Lua in a nutshell
  - Cuberite plugins 101
  - plugin Hackathon
 
----
+#### Timetable
+
+|      Time     | Topic                              |
+|:-------------:|------------------------------------|
+| 16:00 - 17:00 | Small introduction talks + opening |
+| 17:00 - 17:15 | Break                              |
+| 17:15 - 18:15 | Lua in a nutshell                  |
+| 18:15 - 18:30 | Break                              |
+| 18:30 - 19:30 | Cuberite plugins 101               |
+| 19:30 - 19:45 | Break                              |
+| 19:45 - *     | Cuberite plugin hackathon          |
+
+
 
 ### Lua in a nutshell
 
