@@ -63,3 +63,8 @@
  - Defining a corporate design
 
 ## Sunday
+
+|     Time      | Topic                        |
+|:-------------:|:-----------------------------|
+| 14:00 - 15:00 | Setting up a Cuberite server |
+|   15:00 - *   | Open discussion              |
