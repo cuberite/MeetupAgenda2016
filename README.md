@@ -46,7 +46,7 @@
 | 16:30 - 17:00 | Break                                      |
 | 17:00 - 18:00 | Implementing LuaJIT (Moderated discussion) |
 | 18:00 - 18:30 | Break                                      |
-| 18:30 - 19:30 | Defining Cuberite                          |
+| 18:30 - 19:30 | Defining Cuberite (Moderated discussion)   |
 
 ### Testing
 
