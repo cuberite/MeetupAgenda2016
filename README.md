@@ -9,13 +9,13 @@
 
 #### Timetable
 
-|      Time     | Topic                              |
-|:-------------:|------------------------------------|
+|      Time     | Topic                                    |
+|:-------------:|------------------------------------------|
 | 16:00 - 17:00 | Small introduction talks + opening       |
-| 17:00 - 17:15 | Break                                    |
-| 17:15 - 18:30 | Lua in a nutshell + Cuberite plugins 101 |
-| 18:30 - 18:45 | Break                              |
-| 18:45 - *     | Cuberite plugin hackathon          |
+| 17:00 - 17:30 | Break                                    |
+| 17:30 - 18:30 | Lua in a nutshell + Cuberite plugins 101 |
+| 18:30 - 19:00 | Break                                    |
+| 19:00 - *     | Cuberite plugin hackathon                |
 
 
 
