@@ -1,13 +1,4 @@
-# Agenda
-
 ## Friday
-
- - Small introduction talks + opening
- - Lua in a nutshell
- - Cuberite plugins 101
- - plugin Hackathon
-
-#### Timetable
 
 |     Time      | Topic                                    |
 |:-------------:|:-----------------------------------------|
@@ -18,25 +9,7 @@
 |   19:00 - *   | Cuberite plugin hackathon                |
 
 
-
-### Lua in a nutshell + Cuberite plugins 101
-
- - Lua basics
- - How to write a basic Cuberite plugin
-
-### plugin Hackathon
-
- - share ideas about possible plugins
- - come together in groups to build a plugin
- - extend the API
-
 ## Saturday
-
- - Testing
- - Implementing LuaJIT
- - Defining **Cuberite**
-
-#### Timetable
 
 |     Time      | Topic                                            |
 |:-------------:|:-------------------------------------------------|
@@ -48,23 +21,11 @@
 | 18:00 - 18:30 | Break                                            |
 | 18:30 - 19:30 | Defining Cuberite (Moderated discussion)         |
 
-### Testing
-
- - Testing methods
- - Release strategy
-
-### Implementing LuaJIT
-
- - open discussion
-
-### Defining Cuberite
-
- - Setting a Slogan / *Elevator pitch*
- - Defining a corporate design
 
 ## Sunday
 
-|     Time      | Topic                        |
-|:-------------:|:-----------------------------|
-| 14:00 - 15:00 | Setting up a Cuberite server |
-|   15:00 - *   | Open discussion              |
+|     Time      | Topic                                         |
+|:-------------:|:----------------------------------------------|
+| 10:00 - 14:00 | Cuberite plugin hackathon: Early bird edition |
+| 14:00 - 15:00 | Setting up a Cuberite server                  |
+|   15:00 - *   | Open discussion                               |
