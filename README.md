@@ -1,4 +1,4 @@
-**NOTE: All mentioned times are CET**
+**NOTE: All mentioned times are CET (UTC+1)**
 
 ## Friday
 
