@@ -1,3 +1,5 @@
+**NOTE: All mentioned times are CET**
+
 ## Friday
 
 |     Time      | Topic                                    |
